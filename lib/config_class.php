@@ -5,7 +5,7 @@ class Config{
 	var $sitename = "TermoHydroCalculator";
 	//var $address = "http://TermoHydroCalculator/"; по окончании удалить нижний а этот раскомментить
 	var $address = "http://site.local/";
-	var $secret = "bnn1979";
+	var $secret = "make secret word";
 	var $host = "localhost";
 	var $db = "termohidrocalc";
 	var $db_prefix = "firstsite_";
